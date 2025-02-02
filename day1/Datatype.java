@@ -7,7 +7,7 @@ public class Datatype {
 		
 		float valueofversion = 91.0f;
         String developer = "Google";
-        boolean isBeta = flase;
+        boolean isBeta = false;
         short releaseYear = 2008;
         char shortcutKey = 'C';
         
